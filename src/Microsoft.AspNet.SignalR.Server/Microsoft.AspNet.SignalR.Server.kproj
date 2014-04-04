@@ -23,6 +23,7 @@
     <Content Include="Scripts\hubs.js" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AssemblyInfo2.cs" />
     <Compile Include="AuthorizeAttribute.cs" />
     <Compile Include="Configuration\ConfigurationExtensions.cs" />
     <Compile Include="Configuration\DefaultConfigurationManager.cs" />
